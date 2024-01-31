@@ -1,0 +1,36 @@
+.listCon {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.img {
+  width: 150px;
+  height: 100px;
+  margin-right: 15px;
+}
+.columnCon {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.para {
+  font-size: 18px;
+  color: #ffffff;
+  margin: 5px;
+  margin-right: 20px;
+}
+.customPara {
+  color: #3b82f6;
+}
+.durationPara {
+  font-size: 18px;
+  color: #ffffff;
+  margin: 0px 20px 0px 20px;
+}
+.iconBtn {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  margin: 0px 20px 0px 20px;
+}
